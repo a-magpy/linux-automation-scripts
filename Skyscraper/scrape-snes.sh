@@ -7,7 +7,7 @@
 	-u xxxxx:xxxxx \
 	-t 2 \
 	--region us \
-       	-p snes \
+	-p snes \
 	-m 70 \
 	--nomarquees \
 	--nocovers \

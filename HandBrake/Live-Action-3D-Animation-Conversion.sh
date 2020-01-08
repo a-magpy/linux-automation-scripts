@@ -2,7 +2,7 @@
 for i in *.mkv 
 do 
 	HandBrakeCLI \
-       	--input "$i" \
+	--input "$i" \
 	--encoder x264 \
 	--encoder-preset fast \
 	--encoder-profile main \
